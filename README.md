@@ -3,5 +3,5 @@ For Task 1
 
 For task 2    
 ![image](https://github.com/user-attachments/assets/7b904611-f124-490f-939a-bd3a0e3229a7)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fbofwMyuyS8&ab_channel=Null/0.jpg)](https://www.youtube.com/watch?v=fbofwMyuyS8&ab_channel=Null)
+[![video of factory demo](![image](https://github.com/user-attachments/assets/b1ef2be0-1840-49d8-b774-243cdb1e8648))](https://www.youtube.com/watch?v=fbofwMyuyS8&ab_channel=Null)
 
